@@ -1,0 +1,8 @@
+.greeting{
+    border:none;
+    font-size: 18px;
+    outline: none;
+    background-color: transparent;
+    color: white;
+    font-weight: bolder;
+}
